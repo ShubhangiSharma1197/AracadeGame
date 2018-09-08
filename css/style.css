@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #BC8F8F;;
+}
+h1 {
+  font-size: 20px;
+  margin: 0;
+  color: $stColor;
+  font-family: $font;
+}
+
+.heading{
+font-size: 40px;
+margin: 0;
+color: red; 
+}
+
+.main {
+  display: flex;
+  max-width: 100%;
+}
+
+.center {
+  justify-content: center;
+}
